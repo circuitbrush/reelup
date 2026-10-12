@@ -1,0 +1,8 @@
+streamlit
+opencv-python-headless
+numpy
+pillow
+imageio-ffmpeg
+google-genai
+boto3
+python-dotenv
